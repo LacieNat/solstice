@@ -1,0 +1,34 @@
+body{
+	-ms-behavior: url(../backgroundsize.min.htc);
+}
+#talking-point-body,
+#page-login,
+#report-status-info-detail-face,
+#side-menu-face,
+.newsfeed-post-profile-points,
+#talking-point-body,
+#side-menu-profile,
+#page-result-flower-container,
+.newsfeed-post-profile-face,
+.newsfeed-post-image,
+.friend-face,
+#setting-profile-image-friend-face,
+#profile-target-face
+{
+   	background-size: cover !important;
+	-ms-behavior: url(../backgroundsize.min.htc);
+}
+#report-status-info{
+    background-size: cover !important;
+    background-repeat: repeat-x !important;
+    -ms-behavior: url(../backgroundsize.min.htc);
+}
+#report-status-info img[style]{
+    width: 100% !important;
+}
+.ie8-hidden{
+    display: none !important;
+}
+.ie8-visible{
+    display: block !important;
+}
